@@ -62,10 +62,13 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](output1.png)
-![SVM For Spam Mail Detection](output2.png)
-![SVM For Spam Mail Detection](output3.png)
-![SVM For Spam Mail Detection](output4.png)
+![SVM For Spam Mail Detection](output1.jpg)
+
+![SVM For Spam Mail Detection](output2.jpg)
+
+![SVM For Spam Mail Detection](output3.jpg)
+
+![SVM For Spam Mail Detection](output4.jpg)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
